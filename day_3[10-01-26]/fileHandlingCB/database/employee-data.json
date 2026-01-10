@@ -1,0 +1,4 @@
+[
+  { "empName": "Sam", "empAge": 23, "empSalary": 50000 },
+  { "empName": "Danny", "empAge": 25, "empSalary": 70000 }
+]
